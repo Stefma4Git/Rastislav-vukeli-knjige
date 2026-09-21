@@ -21,7 +21,7 @@ const books = [
   {
   title: "U-portazi-za-Judom",
   year: "2026",
-  description: "Alegorično delo koje govori o propasti jednog naselja zvanog Sloboda. Napuštajući domove u potrazi za slobodom ljudi postaju robovi savremenog vrednosnog sistema.",
+  description: "Krivimo Judu što je prodao Hrista, a među nama postoji hiljade izdajnika gorih od njega.",
  pdf: "books/u-potrazi-za-judom.pdf",
   cover: "covers/u-potrazi-za-judom.jpg"
   },

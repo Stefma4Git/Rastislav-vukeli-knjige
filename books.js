@@ -18,12 +18,25 @@
 */
 
 const books = [
-  // OVDE DODAJTE KNJIGE
-  // {
-  //   title: "Naslov knjige",
-  //   year: "2026",
-  //   description: "Kratak opis knjige.",
-  //   pdf: "books/naslov-knjige.pdf",
-  //   cover: "covers/naslov-knjige.jpg"
-  // }
+  {
+  title: "U-portazi-za-Judom",
+  year: "2026",
+  description: "Sa užasom je razumeo da postoje ljudi koji na dnevnom nivou izdaju Hrista i za mnogo manje para. Proklinjemo Judu, a okruženi smo hiljadama onih koji su daleko jeftiniji od njega. ",
+ pdf: "books/u-potrazi-za-judom.pdf",
+  cover: "covers/u-potrazi-za-judom.jpg"
+  },
+  {
+    title: "Dekodiranje-stereotipa",
+    year: "2026",
+    description: "Kratak opis druge knjige.",
+    pdf: "books/Dekodiranje-stereotipa.pdf",
+    cover: "covers/Dekodiranje-stereotipa.jpg"
+  },
+  {
+    title: "Kako-je-propala-sloboda",
+    year: "2026",
+    description: "Kratak opis druge knjige.",
+    pdf: "books/Tvoj-neko.pdf",
+    cover: "covers/Tvoj-neko.jpg"
+  }
 ];

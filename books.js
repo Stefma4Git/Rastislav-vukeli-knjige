@@ -28,7 +28,7 @@ const books = [
   {
     title: "Dekodiranje-stereotipa",
     year: "2026",
-    description: "Kratak opis druge knjige.",
+    description: "Ima li išta žalosnije od slike čoveka koji je prestao da se bori za sopstvenu slobodu? Ima li šta tužnije od osobe koja izgara boreći se za tuđ ideal slobode? Kako se oseća neko kada shvati da je sagoreo boreći se samo za novi oblik ropstva?",
     pdf: "books/Dekodiranje-stereotipa.pdf",
     cover: "covers/Dekodiranje-stereotipa.jpg"
   },

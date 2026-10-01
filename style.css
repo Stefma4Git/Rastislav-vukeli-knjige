@@ -271,3 +271,73 @@ footer {
   .hero { min-height: 680px; }
   .about { grid-template-columns: 1fr; }
 }
+
+/* --- Kontakt u footeru --- */
+.site-footer {
+  padding: 55px 28px 35px;
+  border-top: 1px solid var(--border);
+  color: #8b857a;
+  font-size: .9rem;
+}
+
+.footer-content {
+  max-width: 1180px;
+  margin: auto;
+}
+
+.footer-contact {
+  margin-bottom: 30px;
+}
+
+.footer-contact .eyebrow {
+  color: var(--accent);
+  opacity: 1;
+  margin-bottom: 14px;
+}
+
+.footer-contact ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px 32px;
+}
+
+.footer-contact li {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+}
+
+.footer-label {
+  color: var(--muted);
+  font-weight: 600;
+  font-size: .85rem;
+}
+
+.footer-contact a {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease, color .2s ease;
+}
+
+.footer-contact a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.footer-copy {
+  margin: 0;
+  padding-top: 22px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  .footer-contact ul {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

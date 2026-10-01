@@ -19,7 +19,7 @@
 
 const books = [
   {
-  title: "U-portazi-za-Judom",
+  title: "U-potrazi-za-Judom",
   year: "2026",
   description: "Krivimo Judu što je prodao Hrista, a među nama postoji hiljade izdajnika gorih od njega.",
  pdf: "books/u-potrazi-za-judom.pdf",
